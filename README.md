@@ -71,7 +71,6 @@ Falls genügend Zeit vorhanden, folgende weiter Features umsetzen:
 Grobe Konzeption für Stufe Basic mit Vorausblick auf Stufe Comfort
 
 1. Use Cases dokumentieren
-1. Grobe Terminplanung
 1. Architektur konzipieren (Flussdiagramme, Klassendiagramme, usw.)
 1. Anforderungen Openshift Secret (Datentyp, Länge, Encoding, weitere Attribute, usw.)
 
